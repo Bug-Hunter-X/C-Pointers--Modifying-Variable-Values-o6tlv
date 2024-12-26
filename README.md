@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a common error related to pointer usage. The program shows how to correctly modify a variable's value using a pointer and explains how memory addresses are managed in C. The solutions offer different approaches for safe and efficient handling of pointers.
